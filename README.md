@@ -51,3 +51,7 @@ bot: Goodbye!
 
 Responses are drawn from the trained corpus and from any conversations
 had during previous sessions, so wording may vary slightly between runs.
+
+## Author
+
+Prajwol Khatri ([@khatriprajwol](https://github.com/khatriprajwol))
